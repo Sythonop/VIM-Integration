@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition cds 3'
+define service Zsd_CDS_3 {
+  expose Z_CDS_3;
+}
